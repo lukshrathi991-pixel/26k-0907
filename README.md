@@ -1,2 +1,19 @@
-# 26k-0907
-Hello, my name is laksh. I am fast C's karachi student.This is my cv.
+![Profile Picture](WhatsApp%20Image%202026-09-02%20at%2010.01.35%20AM.jpeg)
+# Laksh
+
+## Education
+
+**Bachelor of Science in Computer Science**
+
+*National University of Computer and Emerging Sciences (FAST-NUCES), Karachi*
+
+## Skills
+
+- C Programming
+- Git & GitHub
+- Microsoft Office
+
+## Projects
+
+- Programming Fundamentals Projects
+- GitHub Resume
