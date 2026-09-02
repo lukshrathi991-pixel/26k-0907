@@ -17,3 +17,10 @@
 
 - Programming Fundamentals Projects
 - GitHub Resume
+## Hobbies & Extracurriculars
+
+1. Programming
+   - [x] Learn GitHub basics
+   - [ ] Build a personal programming project
+
+2. Sports
